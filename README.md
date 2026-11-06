@@ -1,5 +1,7 @@
 # Pokemon-SA-for-HarmonyOS
 
+##声明
+
 ⚠️⚠️⚠️**本作含有大量网络烂梗/恶趣味低俗暗示/AI生成的文字和图片**⚠️⚠️⚠️
 
 ⚠️⚠️⚠️**如会对上述任何反感请勿下载/勿游玩/速删除，否则后果自负**⚠️⚠️⚠️
@@ -13,3 +15,9 @@
 PC原版开发者 b站UP主：裘老板 https://space.bilibili.com/31952135
 
 如遇到bug，请在本仓库issues提出详细触发场景，并附上设置-工具-导出日志到下载的日志文件包。
+
+## 安装方法
+
+1. Release 下载 PokemonSA侧载hap安装包。
+3. 使用 [小白调试助手](https://github.com/likuai2010/auto-installer/releases)：登录自己的华为开发者账号，选择下载的 HAP，按工具的自动签名/调试流程为自己的手机签名并安装。
+4. 或使用 [HoKit](https://github.com/yabi-zzh/HoKit/releases)：在“应用重签名”中使用自己的账号、证书及设备授权 Profile 完成签名，再使用 HDC 安装输出的已签名 HAP。
