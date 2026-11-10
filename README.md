@@ -28,7 +28,7 @@ PC原版开发者 b站UP主：裘老板 https://space.bilibili.com/31952135
 
 | 竖屏 | 横屏 |
 | :---: | :---: |
-
+| <img src="竖屏截图.jpeg" width="230" alt="竖屏截图" /> | <img src="横屏截图.jpeg" width="230" alt="横屏截图" /> |
 
 ## 游戏特性介绍（来自官方）
 
