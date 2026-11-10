@@ -24,6 +24,12 @@ PC原版开发者 b站UP主：裘老板 https://space.bilibili.com/31952135
 2. 使用 [小白调试助手](https://github.com/likuai2010/auto-installer/releases)：登录自己的华为开发者账号，选择下载的 HAP，按工具的自动签名/调试流程为自己的手机签名并安装。
 3. 或使用 [HoKit](https://github.com/yabi-zzh/HoKit/releases)：在“应用重签名”中使用自己的账号、证书及设备授权 Profile 完成签名，再使用 HDC 安装输出的已签名 HAP。
 
+## 实机画面
+
+| 竖屏 | 横屏 |
+| :---: | :---: |
+
+
 ## 游戏特性介绍（来自官方）
 
 **官方文档详见：https://docs.qq.com/aio/DVXJEaFdWVVJiWndv?p=s2CS9BHZ1MOGmcOrIABI4x**
