@@ -1,4 +1,7 @@
-# Pokemon-SA-for-HarmonyOS
+<div align="center">
+  <img src="docs/PokemonSA-app-icon-1024.png" width="100" alt="SA应用图标" />
+  <h1>Pokemon SA · HarmonyOS</h1>
+</div>
 
 ## 声明
 
